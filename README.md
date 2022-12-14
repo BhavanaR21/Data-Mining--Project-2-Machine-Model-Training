@@ -1,4 +1,4 @@
-# Data-Mining--Project-3-Machine-Model-Training
+# Data-Mining--Project-2-Machine-Model-Training
 
 Project 2: Machine Model Training
 
